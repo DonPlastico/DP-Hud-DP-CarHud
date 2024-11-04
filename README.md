@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/30737444-a3f4-44b2-bbc8-74f00d4f9204)# DP-Hud + DP-CarHud
+# DP-Hud + DP-CarHud
 Hola, jugadores. Hoy voy a publicar otro script de UI. Se trata de un HUD que añade vida, hambre, sed, blindaje, velocimetro y otras cosas. Si, es totalmente gratuita. Soy un desarrollador novato por lo que es posible que tenga fallos... si quieren que cree UI personalizadas para tus servidores FiveM, no dudes en ponerte en contacto conmigo.
 
 <h1>Caracteristicas</h1>
@@ -22,6 +22,7 @@ Añadelo en tu server.cfg por debajo de qb-core: <br>
 <h1>Fotos</h1>
 <h2>DP-Hud</h2>
 
+![image](https://github.com/user-attachments/assets/30737444-a3f4-44b2-bbc8-74f00d4f9204)
 
 <h2>DP-CarHud</h2>
 <h4>Vehículo quieto</h4>
