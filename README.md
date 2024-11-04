@@ -38,22 +38,22 @@ Añadelo en tu server.cfg por debajo de qb-core: <br>
 
 ![image](https://github.com/user-attachments/assets/1968a9f6-ba9a-4faa-a5ab-b725443d2083)
 
-<p align="center"> +50L </p>
+<p align="center">+50L Gasolina</p>
 
 ![image](https://github.com/user-attachments/assets/c380fb7d-106a-4b55-87f1-ee4a3722a823)
 
-<p align="center"> +30L </p>
+<p align="center">-50L Gasolina</p>
 
 ![image](https://github.com/user-attachments/assets/4d472bcf-cca4-49b9-b83d-4326de976d7b)
 
-<p align="center"> +20L </p>
+<p align="center">-30L Gasolina</p>
 
 ![image](https://github.com/user-attachments/assets/e382f1c4-c41a-47b1-87cb-7cc770338080)
 
-<p align="center"> +10L </p>
+<p align="center">-20L Gasolina</p>
 
 ![image](https://github.com/user-attachments/assets/d2c82d75-d3a5-499a-b216-d2c24fbea26c)
 
-<p align="center"> -10L </p>
+<p align="center">-10L Gasolina</p>
 
 ![image](https://github.com/user-attachments/assets/a6f0dc6d-08b9-4bd5-8856-26b35ad0d923)
