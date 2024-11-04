@@ -38,7 +38,7 @@ Añadelo en tu server.cfg por debajo de qb-core: <br>
 
 ![image](https://github.com/user-attachments/assets/1968a9f6-ba9a-4faa-a5ab-b725443d2083)
 
-2. +50L
+<p style="background: black;"> +50L </p>
 
 ![image](https://github.com/user-attachments/assets/c380fb7d-106a-4b55-87f1-ee4a3722a823)
 
