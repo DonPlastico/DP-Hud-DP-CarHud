@@ -20,35 +20,35 @@ Añadelo en tu server.cfg por debajo de qb-core: <br>
 <a href="">Video del Script</a>
 
 <h1>Fotos</h1>
-<h3>DP-Hud</h3>
+* DP-Hud
 
-<h4>Map + Minimap</h4>
+- Map + Minimap
 
 ![image](https://github.com/user-attachments/assets/641bef81-02bd-4e28-b178-e8a8f9d6cacc)
 ![image](https://github.com/user-attachments/assets/ca7984a0-712f-492d-b015-6fa1b6dca3ae)
 ![image](https://github.com/user-attachments/assets/85aca0f1-aeff-48f2-8974-dfc312db797f)
 
-<h3>DP-CarHud</h3>
-<h4>Vehículo quieto</h4>
+* DP-CarHud</h3>
+- Vehículo quieto
 
 ![image](https://github.com/user-attachments/assets/1968a9f6-ba9a-4faa-a5ab-b725443d2083)
 
-<h4>+50L</h4>
+- +50L
 
 ![image](https://github.com/user-attachments/assets/c380fb7d-106a-4b55-87f1-ee4a3722a823)
 
-<h4>+30L</h4>
+- +30L
 
 ![image](https://github.com/user-attachments/assets/4d472bcf-cca4-49b9-b83d-4326de976d7b)
 
-<h4>+20L</h4>
+- +20L
 
 ![image](https://github.com/user-attachments/assets/e382f1c4-c41a-47b1-87cb-7cc770338080)
 
-<h4>+10L</h4>
+- +10L
 
 ![image](https://github.com/user-attachments/assets/d2c82d75-d3a5-499a-b216-d2c24fbea26c)
 
-<h4>-10L</h4>
+- -10L
 
 ![image](https://github.com/user-attachments/assets/a6f0dc6d-08b9-4bd5-8856-26b35ad0d923)
