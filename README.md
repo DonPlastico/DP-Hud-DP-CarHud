@@ -34,7 +34,7 @@ Añadelo en tu server.cfg por debajo de qb-core: <br>
 
 
 - DP-CarHud
-1. Vehículo quieto
+<p align="center"> Vehículo quieto </p>
 
 ![image](https://github.com/user-attachments/assets/1968a9f6-ba9a-4faa-a5ab-b725443d2083)
 
