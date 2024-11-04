@@ -17,7 +17,7 @@ Añadelo en tu server.cfg por debajo de qb-core: <br>
 
 <h1>Video</h1>
 
-<a href="">Video del Script</a>
+<a href="https://youtu.be/mAg4viGml6I">Video del Script</a>
 
 <h1>Fotos</h1>
 
