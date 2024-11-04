@@ -29,6 +29,7 @@ Añadelo en tu server.cfg por debajo de qb-core: <br>
 
 - DP-Hud
 
+![image](https://github.com/user-attachments/assets/2829f044-fa6b-45a5-9031-a14167e2539c)
 
 
 
