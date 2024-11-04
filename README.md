@@ -20,6 +20,7 @@ Añadelo en tu server.cfg por debajo de qb-core: <br>
 <a href="">Video del Script</a>
 
 <h1>Fotos</h1>
+
 - Map + Minimap
 
 ![image](https://github.com/user-attachments/assets/641bef81-02bd-4e28-b178-e8a8f9d6cacc)
