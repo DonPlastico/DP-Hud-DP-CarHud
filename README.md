@@ -34,6 +34,21 @@ Añadelo en tu server.cfg por debajo de qb-core: <br>
 ![image](https://github.com/user-attachments/assets/2829f044-fa6b-45a5-9031-a14167e2539c)
 ![image](https://github.com/user-attachments/assets/b7e63f4e-1295-420d-b577-817c92db0b65)
 
+<p align="center">Individuales</p>
+
+![image](https://github.com/user-attachments/assets/7026edc2-3ef3-4cd5-9f46-7923a11332c0)
+![image](https://github.com/user-attachments/assets/b52ce03e-8e39-4497-af9a-e53d91c648c9)
+![image](https://github.com/user-attachments/assets/ad960c6a-8b37-4a33-8772-2ed71eecfb64)
+![image](https://github.com/user-attachments/assets/ab47abc6-4f9b-4c96-853c-656e4e5b2065)
+![image](https://github.com/user-attachments/assets/af739397-03ba-4d10-b2c3-8f551eff7b9c)
+![image](https://github.com/user-attachments/assets/a4f3ab09-ffad-4ac9-bb1b-ae73fad40e81)
+![image](https://github.com/user-attachments/assets/7f9bc9c6-7ef5-4834-8182-9a4d6de89225)
+
+<p align="center">Configurable</p>
+
+![image](https://github.com/user-attachments/assets/c4087bd7-6a71-41e9-aa66-3b723254d62c)
+
+
 - DP-CarHud
 <p align="center"> Vehículo quieto </p>
 
