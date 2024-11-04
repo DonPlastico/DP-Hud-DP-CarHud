@@ -22,7 +22,11 @@ Añadelo en tu server.cfg por debajo de qb-core: <br>
 <h1>Fotos</h1>
 <h2>DP-Hud</h2>
 
-![image](https://github.com/user-attachments/assets/30737444-a3f4-44b2-bbc8-74f00d4f9204)
+<h4>Map + Minimap</h4>
+
+![image](https://github.com/user-attachments/assets/85aca0f1-aeff-48f2-8974-dfc312db797f)
+![image](https://github.com/user-attachments/assets/641bef81-02bd-4e28-b178-e8a8f9d6cacc)
+![image](https://github.com/user-attachments/assets/ca7984a0-712f-492d-b015-6fa1b6dca3ae)
 
 <h2>DP-CarHud</h2>
 <h4>Vehículo quieto</h4>
