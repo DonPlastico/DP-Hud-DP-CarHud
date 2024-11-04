@@ -22,15 +22,5 @@ Añadelo en tu server.cfg por debajo de qb-core: <br>
 <h1>Fotos</h1>
 <h2>DP-Hud</h2>
 
-![image](https://github.com/user-attachments/assets/f5796f11-4795-40b5-abfd-23a029e0ba32) <br>
-![image](https://github.com/user-attachments/assets/7a580aec-a495-4308-867a-d5895b71508f) <br>
-![image](https://github.com/user-attachments/assets/b3e07a1b-e2e3-4160-96eb-58ac47b6896a) <br>
-![image](https://github.com/user-attachments/assets/ef7bc87b-fffc-418c-9cb9-9043df90b1d2) <br>
-![image](https://github.com/user-attachments/assets/ad338fe4-a72b-4418-bcbe-9b85f8c74b61)
 
 <h2>DP-CarHud</h2>
-![image](https://github.com/user-attachments/assets/f5796f11-4795-40b5-abfd-23a029e0ba32) <br>
-![image](https://github.com/user-attachments/assets/7a580aec-a495-4308-867a-d5895b71508f) <br>
-![image](https://github.com/user-attachments/assets/b3e07a1b-e2e3-4160-96eb-58ac47b6896a) <br>
-![image](https://github.com/user-attachments/assets/ef7bc87b-fffc-418c-9cb9-9043df90b1d2) <br>
-![image](https://github.com/user-attachments/assets/ad338fe4-a72b-4418-bcbe-9b85f8c74b61)
