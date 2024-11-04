@@ -31,7 +31,6 @@ Añadelo en tu server.cfg por debajo de qb-core: <br>
 
 <p align="center">Mostrando todos</p>
 
-![image](https://github.com/user-attachments/assets/b71d8376-a0ed-48c6-83a3-8a0e60b44eaa)
 ![image](https://github.com/user-attachments/assets/2829f044-fa6b-45a5-9031-a14167e2539c)
 ![image](https://github.com/user-attachments/assets/b7e63f4e-1295-420d-b577-817c92db0b65)
 
