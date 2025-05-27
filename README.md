@@ -12,7 +12,12 @@ Descarga el script y meterlo en tu servidor. <br>
 Añadelo en tu server.cfg por debajo de qb-core: <br>
   ensure qb-core <br>
   ensure DP-Hud <br>
+  ensure jg-vehiclemileage <br>
   ensure DP-CarHud
+
+
+<h1>Dependencias</h1>
+Ox_lib <br>
   
 
 <h1>Video</h1>
